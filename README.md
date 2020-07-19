@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Project Seller](puneetmanghwani/projectseller)
 
-- 👨‍💻 All of my projects are available at [github.com/puneetmanghwani](puneetmanghwani)
+- 👨‍💻 All of my projects are available at [github.com/puneetmanghwani](puneetmanghwani?tab=repositories)
 
 - 💬 Ask me about **React Js , Node.js , Django , Django REST, Flask , Machine Learning , Deep Learning , Docker**
 
