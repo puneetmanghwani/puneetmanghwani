@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetmanghwani" alt="puneetmanghwani" /> </p>
 
-- 🔭 I’m currently working on [Project Seller](projectseller.herokuapp.com/)
+- 🔭 I’m currently working on [Project Seller](projectseller)
 
 - 👨‍💻 All of my projects are available at [github.com/puneetmanghwani](github.com/puneetmanghwani)
 
