@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/puneetmanghwani](github.com/puneetmanghwani)
 
-- 💬 Ask me about **React Js , Node.js , Django , Django REST**
+- 💬 Ask me about **React Js , Node.js , Django , Django REST, Flask , Machine Learning , Deep Learning , Docker**
 
 - 📫 How to reach me **punitkumar196@gmail.com**
 
