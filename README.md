@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="center">
-<a href="https://twitter.com/puneetmanghwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="puneetmanghwani" height="20" width="20" /></a> &ensp;
-<a href="https://linkedin.com/in/puneet-manghwani-86191b169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="puneet-manghwani-86191b169" height="20" width="20" /></a>&ensp;
-<a href="https://stackoverflow.com/13089984" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13089984" height="20" width="20" /></a>&ensp;
-<a href="https://kaggle.com/punitkumar1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="punitkumar1999" height="20" width="20" /></a>&ensp;
-<a href="https://fb.com/punitmanghwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="punitmanghwani" height="20" width="20" /></a>&ensp;
+<a href="https://twitter.com/puneetmanghwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="puneetmanghwani" height="20" width="20" /></a> &emsp;
+<a href="https://linkedin.com/in/puneet-manghwani-86191b169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="puneet-manghwani-86191b169" height="20" width="20" /></a> &emsp;
+<a href="https://stackoverflow.com/13089984" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13089984" height="20" width="20" /></a> &emsp;
+<a href="https://kaggle.com/punitkumar1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="punitkumar1999" height="20" width="20" /></a> &emsp;
+<a href="https://fb.com/punitmanghwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="punitmanghwani" height="20" width="20" /></a> &emsp;
 <a href="https://instagram.com/puneeeettt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="puneeeettt" height="20" width="20" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetmanghwani" alt="puneetmanghwani" /> </p>
