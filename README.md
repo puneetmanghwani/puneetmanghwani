@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Puneet Manghwani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="center">
-  <a href="https://github.com/puneetmanghwani/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/puneetmanghwani/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/puneetmanghwani/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/puneetmanghwani/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/puneetmanghwani/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/forks/puneetmanghwani/github-profile-trophy"/>   
     <img src="https://img.shields.io/github/stars/puneetmanghwani/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/puneetmanghwani/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/puneetmanghwani/github-profile-trophy"/> 
-  </a>
-</p>
+  </p>
 <p align="center">
 <a href="https://twitter.com/puneetmanghwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="puneetmanghwani" height="20" width="20" /></a> &emsp;
 <a href="https://linkedin.com/in/puneet-manghwani-86191b169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="puneet-manghwani-86191b169" height="20" width="20" /></a> &emsp;
