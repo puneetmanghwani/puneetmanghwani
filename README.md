@@ -10,9 +10,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetmanghwani" alt="puneetmanghwani" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/puneetmanghwani/ProjectSeller">[Project Seller]</a>
+- 🔭 I’m currently working on <a href="https://github.com/puneetmanghwani/ProjectSeller">Project Seller</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/puneetmanghwani?tab=repositories">[github.com/puneetmanghwani]</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/puneetmanghwani?tab=repositories">github.com/puneetmanghwani</a>
 
 - 💬 Ask me about **React Js , Node.js , Django , Django REST, Flask , Machine Learning , Deep Learning , Docker**
 
