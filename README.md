@@ -10,7 +10,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetmanghwani" alt="puneetmanghwani" /> </p>
 
-- 🔭 I’m currently working on [Project Seller]
+- 🔭 I’m currently working on [Project Seller](ProjectSeller)
 
 - 👨‍💻 All of my projects are available at [github.com/puneetmanghwani](puneetmanghwani?tab=repositories)
 
